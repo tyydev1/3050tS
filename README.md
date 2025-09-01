@@ -1,6 +1,17 @@
-tyydev_ is the legit name you should call me, not 3050tS.
-i like making random stuff,
-the universe is collapsing,
-and i just exist here.
+## Hi! I'm tyydev / 3050tS
+---
+I have a channel called TempehMusic, although it's not online. I like learning *how to code*, and how to **make stuff**.
 
-<!--whats up-->
+I've made a concept of a programming language, called **dbs**. Here's a hello world example.
+```dbs
+!require base-dbs <- bdb
+
+foundation main() {untilNewStructure}::
+  prompt.displayText() {untilEnd("end:")}:
+    return.up(1:) <( string<bdb> <- "Hello world!" );
+  end:
+
+space end() [end] {}:
+```
+---
+### Thanks for checking me out!
